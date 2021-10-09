@@ -55,7 +55,7 @@ Sets `this` value to the `global` object and initializes the `a` parameter to `u
 
 During the execution phase of the function execution context, it assigns `5` to parameter `a` and returns the result `10` to the global execution context.
 
-![Function execution context execution phase](https://github.com/biswarup35/100-days-of-javascript/blob/main/images/function-execution-phase-1.png)
+![Function execution context execution phase](https://github.com/biswarup35/100-days-of-javascript/blob/main/images/function-execution-phase-2.png)
 
 Once the function execution context finishes its job, the global execution context now should look like this:
 
