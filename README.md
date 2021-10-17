@@ -43,7 +43,7 @@ JavaScript is most known as the scripting language for Web pages but used in man
 - Functions, Callback Function
 - Higher order function
 - Pure function, side effects and state mutation
-- # Recursion
+- Reccursion
 
 > Note: Complete list soon be updated.
 
