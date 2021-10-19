@@ -38,7 +38,7 @@ JavaScript is most known as the scripting language for Web pages but used in man
 - [x] [Call Stack](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-two)
 - [x] [Hoisting](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-four)
 - [x] [Scope](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-five)
-- Lexical Scope
+- [x] [Lexical Scope](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-six)
 - Closure
 - Functions, Callback Function
 - Higher order function
