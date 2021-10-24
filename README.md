@@ -40,12 +40,11 @@ JavaScript is most known as the scripting language for Web pages but used in man
 - [x] [Scope](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-five)
 - [x] [Lexical Scope](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-six)
 - [x] [Functions as a first-class citizens](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-seven)
-- Closure
-- Callback Function
+- [x] [Callback Function and Closure](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-eight)
 - Higher order function
 - Pure function, side effects and state mutation
 - Reccursion
 
 > Note: Complete list soon be updated.
 
-Last Update: 21/10/2021
+Last Update: 24/10/2021
