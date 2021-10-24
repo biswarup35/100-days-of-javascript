@@ -138,4 +138,4 @@ console.log(sayHi); // Logs "Hi, Puja"
 - They can be stored in some data structure.
 - They can hold their properties and methods.
 
-That's it for today, next day we will study callbacks and closures. If you have anything to say feel free to use [Discussion tab](https://github.com/biswarup35/100-days-of-javascript/discussions) or you can connect me on [Twitter](https://twitter.com/BiswarupBouri).
+That's it for today, next day we will study [callbacks and closures](https://github.com/biswarup35/100-days-of-javascript/tree/main/day-eight). If you have anything to say feel free to use [Discussion tab](https://github.com/biswarup35/100-days-of-javascript/discussions) or you can connect me on [Twitter](https://twitter.com/BiswarupBouri).
